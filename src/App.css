@@ -1,0 +1,23 @@
+#users
+{
+  display: flex;
+  flex-direction: column;
+  background-color: peachpuff;
+  margin-left: 20px;
+  border-width: 2rem;
+}
+
+#gallery
+{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.profiles
+{
+  display: flex;
+  flex-direction: row;
+  margin-top: 100px;
+}
+
